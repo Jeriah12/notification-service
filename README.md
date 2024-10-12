@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-Follow these steps to set up the Notification Service on your local machine:
+Follow these steps to set up the notification-service on your local machine:
 
 1. ***Clone the repository:***
 
